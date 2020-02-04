@@ -113,3 +113,6 @@ Behaviour/Saved/Logs/Behaviour-backup-2020.02.04-11.33.34.log
 Behaviour/Saved/Logs/Behaviour-backup-2020.02.04-11.34.01.log
 Behaviour/Saved/Logs/Behaviour.log
 Behaviour/Saved/Logs/UnrealVersionSelector-2020.02.04-06.34.04.log
+Behaviour/Intermediate/Build/Win64/BehaviourEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp
+Behaviour/Intermediate/Build/Win64/BehaviourEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h
+Behaviour/Saved/Logs/Behaviour.log
