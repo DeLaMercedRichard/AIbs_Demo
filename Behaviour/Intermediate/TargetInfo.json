@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Behaviour",
-			"Path": "C:\\Users\\Dong Hyeong Lee\\Documents\\GitHub\\AIbs_Demo\\Behaviour\\Source\\Behaviour.Target.cs",
+			"Path": "C:\\Users\\Delam\\OneDrive\\Documents\\GitHub\\AIbs_Demo\\Behaviour\\Source\\Behaviour.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "BehaviourEditor",
-			"Path": "C:\\Users\\Dong Hyeong Lee\\Documents\\GitHub\\AIbs_Demo\\Behaviour\\Source\\BehaviourEditor.Target.cs",
+			"Path": "C:\\Users\\Delam\\OneDrive\\Documents\\GitHub\\AIbs_Demo\\Behaviour\\Source\\BehaviourEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

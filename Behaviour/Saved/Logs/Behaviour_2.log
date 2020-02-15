@@ -3062,3 +3062,121 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.14-23.02.44:433][260]LogSavePackage: Moving '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Saved/ThirdPersonExampleMapE086CBF045B72E65A8C91D98489546CA.tmp' to '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
 [2020.02.14-23.02.44:601][260]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2020.02.14-23.02.44:601][260]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.14-23.03.23:706][930]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.02.14-23.03.23:706][930]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.02.14-23.03.23:811][930]LogSlate: Took 0.025567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.14-23.03.26:539][192]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.02.14-23.03.34:733][111]Running C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Behaviour.uproject" -game -rocket -progress
+[2020.02.14-23.03.40:206][111]Discovering modules, targets and source code for project...
+[2020.02.14-23.04.36:365][111]Binding IntelliSense data...
+[2020.02.14-23.04.50:834][111]Binding IntelliSense data... 50%
+[2020.02.14-23.04.50:835][111]Binding IntelliSense data... 100%
+[2020.02.14-23.04.51:037][111]Writing project files...
+[2020.02.14-23.06.09:729][111]Writing project files... 67%
+[2020.02.14-23.06.09:730][111]Writing project files... 100%
+[2020.02.14-23.06.10:056][111]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.02.14-23.06.10:282][111]Candidate modules for hot reload:
+[2020.02.14-23.06.10:282][111]  Behaviour
+[2020.02.14-23.06.10:282][111]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Behaviour,2262 Win64 Development -TargetType=Editor -Project="C:/Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Behaviour.uproject" "C:/Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Behaviour.uproject"  -IgnoreJunk]
+[2020.02.14-23.09.51:781][111]CompilerResultsLog: New page: Compilation - Feb 14, 2020, 1:09:51 PM
+[2020.02.14-23.09.51:804][111]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo).
+[2020.02.14-23.09.51:804][111]CompilerResultsLog: Creating makefile for BehaviourEditor (no existing makefile)
+[2020.02.14-23.09.51:804][111]CompilerResultsLog: Parsing headers for BehaviourEditor
+[2020.02.14-23.09.51:804][111]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Behaviour.uproject" "C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\BehaviourEditor\Development\BehaviourEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.14-23.09.51:804][111]CompilerResultsLog: Reflection code generated for BehaviourEditor in 33.8874009 seconds
+[2020.02.14-23.09.51:804][111]CompilerResultsLog: Building BehaviourEditor...
+[2020.02.14-23.09.51:805][111]CompilerResultsLog: Using Visual Studio 2017 14.16.27026 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.14-23.09.51:805][111]CompilerResultsLog: Building 13 actions with 6 processes...
+[2020.02.14-23.09.51:805][111]CompilerResultsLog:   [1/13] SharedPCH.Engine.ShadowErrors.cpp
+[2020.02.14-23.09.51:805][111]CompilerResultsLog:   [2/13] Personality.cpp
+[2020.02.14-23.09.51:805][111]CompilerResultsLog:   [3/13] Behaviour.init.gen.cpp
+[2020.02.14-23.09.51:805][111]CompilerResultsLog:   [4/13] BehaviourVar.cpp
+[2020.02.14-23.09.51:805][111]CompilerResultsLog:   [5/13] BehaviourGameMode.cpp
+[2020.02.14-23.09.51:805][111]CompilerResultsLog:   [6/13] BehaviourCharacter.gen.cpp
+[2020.02.14-23.09.51:805][111]CompilerResultsLog:   [7/13] Behaviour.cpp
+[2020.02.14-23.09.51:805][111]CompilerResultsLog:   [8/13] BehaviourGameMode.gen.cpp
+[2020.02.14-23.09.51:806][111]CompilerResultsLog:   [9/13] BehaviourVar.gen.cpp
+[2020.02.14-23.09.51:806][111]CompilerResultsLog:   [10/13] BehaviourCharacter.cpp
+[2020.02.14-23.09.51:806][111]CompilerResultsLog:   [11/13] UE4Editor-Behaviour-2262.lib
+[2020.02.14-23.09.51:806][111]CompilerResultsLog:      Creating library C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-2262.lib and object C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-2262.exp
+[2020.02.14-23.09.51:806][111]CompilerResultsLog:   [12/13] UE4Editor-Behaviour-2262.dll
+[2020.02.14-23.09.51:806][111]CompilerResultsLog:      Creating library C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-2262.suppressed.lib and object C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-2262.suppressed.exp
+[2020.02.14-23.09.51:806][111]CompilerResultsLog:   [13/13] BehaviourEditor.target
+[2020.02.14-23.09.51:806][111]CompilerResultsLog: Total time in Parallel executor: 143.42 seconds
+[2020.02.14-23.09.51:806][111]CompilerResultsLog: Total execution time: 220.45 seconds
+[2020.02.14-23.09.51:817][111]LogMainFrame: MainFrame: Module compiling took 221.728 seconds
+[2020.02.14-23.09.52:230][111]LogUObjectHash: Compacting FUObjectHashTables data took  88.53ms
+[2020.02.14-23.09.52:657][111]LogClass: BehaviourStruct HotReload.
+[2020.02.14-23.09.52:745][111]LogContentBrowser: Native class hierarchy updated for 'Behaviour' in 0.0007 seconds. Added 3 classes and 2 folders.
+[2020.02.14-23.09.52:750][111]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2020.02.14-23.09.53:125][111]LogUObjectHash: Compacting FUObjectHashTables data took  15.55ms
+[2020.02.14-23.09.53:456][111]LogContentBrowser: Native class hierarchy populated in 0.2839 seconds. Added 3020 classes and 722 folders.
+[2020.02.14-23.09.53:479][111]Display: HotReload took 223.4s.
+[2020.02.14-23.09.53:489][111]Warning: HotReload operation took 223.4s.
+[2020.02.14-23.09.55:567][111]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.02.14-23.09.56:153][111]LogHotReload: New module detected: UE4Editor-Behaviour-2262.dll
+[2020.02.14-23.09.57:539][112]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.14-23.09.57:539][112]LogHotReload: Starting Hot-Reload from IDE
+[2020.02.14-23.09.57:690][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.02.14-23.09.57:741][112]LogContentBrowser: Native class hierarchy updated for 'Behaviour' in 0.0012 seconds. Added 3 classes and 2 folders.
+[2020.02.14-23.09.57:746][112]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2020.02.14-23.09.57:861][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.02.14-23.09.58:370][112]LogContentBrowser: Native class hierarchy populated in 0.0317 seconds. Added 3020 classes and 722 folders.
+[2020.02.14-23.09.58:374][112]Display: HotReload took  0.8s.
+[2020.02.15-00.08.20:333][705]Candidate modules for hot reload:
+[2020.02.15-00.08.20:334][705]  Behaviour
+[2020.02.15-00.08.20:334][705]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Behaviour,4037 Win64 Development -TargetType=Editor -Project="C:/Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Behaviour.uproject" "C:/Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Behaviour.uproject"  -IgnoreJunk]
+[2020.02.15-00.08.20:676][705]Warning: Starting HotReload took  0.5s.
+[2020.02.15-00.10.39:295][522]CompilerResultsLog: New page: Compilation - Feb 14, 2020, 2:10:39 PM
+[2020.02.15-00.10.39:296][522]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo).
+[2020.02.15-00.10.39:296][522]CompilerResultsLog: Parsing headers for BehaviourEditor
+[2020.02.15-00.10.39:296][522]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Behaviour.uproject" "C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\BehaviourEditor\Development\BehaviourEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.15-00.10.39:296][522]CompilerResultsLog: Reflection code generated for BehaviourEditor in 50.2495395 seconds
+[2020.02.15-00.10.39:296][522]CompilerResultsLog: Building BehaviourEditor...
+[2020.02.15-00.10.39:296][522]CompilerResultsLog: Using Visual Studio 2017 14.16.27026 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.15-00.10.39:296][522]CompilerResultsLog: Building 4 actions with 6 processes...
+[2020.02.15-00.10.39:296][522]CompilerResultsLog:   [1/4] Personality.cpp
+[2020.02.15-00.10.39:296][522]CompilerResultsLog:   [2/4] UE4Editor-Behaviour-4037.lib
+[2020.02.15-00.10.39:296][522]CompilerResultsLog:      Creating library C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-4037.lib and object C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-4037.exp
+[2020.02.15-00.10.39:296][522]CompilerResultsLog:   [3/4] UE4Editor-Behaviour-4037.dll
+[2020.02.15-00.10.39:296][522]CompilerResultsLog:      Creating library C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-4037.suppressed.lib and object C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-4037.suppressed.exp
+[2020.02.15-00.10.39:296][522]CompilerResultsLog:   [4/4] BehaviourEditor.target
+[2020.02.15-00.10.39:296][522]CompilerResultsLog: Total time in Parallel executor: 65.25 seconds
+[2020.02.15-00.10.39:320][522]CompilerResultsLog: Total execution time: 137.31 seconds
+[2020.02.15-00.10.39:320][522]LogMainFrame: MainFrame: Module compiling took 139.017 seconds
+[2020.02.15-00.10.39:563][522]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2020.02.15-00.10.39:923][522]LogClass: BehaviourStruct HotReload.
+[2020.02.15-00.10.39:944][522]LogContentBrowser: Native class hierarchy updated for 'Behaviour' in 0.0026 seconds. Added 3 classes and 2 folders.
+[2020.02.15-00.10.39:950][522]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2020.02.15-00.10.40:176][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.02.15-00.10.40:222][522]LogContentBrowser: Native class hierarchy populated in 0.0216 seconds. Added 3020 classes and 722 folders.
+[2020.02.15-00.10.40:222][522]Display: HotReload took 140.0s.
+[2020.02.15-00.14.14:837][579]Candidate modules for hot reload:
+[2020.02.15-00.14.14:837][579]  Behaviour
+[2020.02.15-00.14.14:837][579]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Behaviour,9137 Win64 Development -TargetType=Editor -Project="C:/Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Behaviour.uproject" "C:/Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Behaviour.uproject"  -IgnoreJunk]
+[2020.02.15-00.14.14:910][579]Warning: Starting HotReload took  0.1s.
+[2020.02.15-00.14.37:511][ 51]CompilerResultsLog: New page: Compilation - Feb 14, 2020, 2:14:37 PM
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo).
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog: Parsing headers for BehaviourEditor
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Behaviour.uproject" "C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\BehaviourEditor\Development\BehaviourEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog: Reflection code generated for BehaviourEditor in 15.1957437 seconds
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog: Building BehaviourEditor...
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog: Using Visual Studio 2017 14.16.27026 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog: Building 3 actions with 6 processes...
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog:   [1/3] UE4Editor-Behaviour-9137.lib
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog:      Creating library C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-9137.lib and object C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-9137.exp
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog:   [2/3] UE4Editor-Behaviour-9137.dll
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog:      Creating library C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-9137.suppressed.lib and object C:\Users\Delam\OneDrive\Documents\GitHub\AIbs_Demo\Behaviour\Intermediate\Build\Win64\UE4Editor\Development\Behaviour\UE4Editor-Behaviour-9137.suppressed.exp
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog:   [3/3] BehaviourEditor.target
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog: Total time in Parallel executor: 4.08 seconds
+[2020.02.15-00.14.37:512][ 51]CompilerResultsLog: Total execution time: 22.39 seconds
+[2020.02.15-00.14.37:512][ 51]LogMainFrame: MainFrame: Module compiling took 22.680 seconds
+[2020.02.15-00.14.37:782][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.15-00.14.38:345][ 51]LogClass: BehaviourStruct HotReload.
+[2020.02.15-00.14.38:367][ 51]LogContentBrowser: Native class hierarchy updated for 'Behaviour' in 0.0011 seconds. Added 3 classes and 2 folders.
+[2020.02.15-00.14.38:375][ 51]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2020.02.15-00.14.38:604][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.02.15-00.14.38:642][ 51]LogContentBrowser: Native class hierarchy populated in 0.0205 seconds. Added 3020 classes and 722 folders.
+[2020.02.15-00.14.38:642][ 51]Display: HotReload took 23.8s.
+[2020.02.15-00.48.39:584][940]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{43aadeb6-0b80-4f4e-823f-812c47e64df3}.
+[2020.02.15-00.48.39:585][940]LogTemp: Resetting audio stream to device id 
