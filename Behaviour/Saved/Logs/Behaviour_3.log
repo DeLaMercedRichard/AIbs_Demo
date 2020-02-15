@@ -1234,3 +1234,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.15-18.30.45:000][241]LogUObjectHash: Compacting FUObjectHashTables data took 143.20ms
 [2020.02.15-18.30.46:744][241]LogContentBrowser: Native class hierarchy populated in 0.4533 seconds. Added 3020 classes and 722 folders.
 [2020.02.15-18.30.46:825][241]Display: HotReload took 68.2s.
+[2020.02.15-18.58.54:755][340]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.02.15-18.59.00:163][340]LogSavePackage: Moving '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Saved/ThirdPersonExampleMap43F4F058428CE5C8E5C98791FD2DBD5F.tmp' to '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.15-18.59.00:164][340]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap', retrying in .5s...
+[2020.02.15-18.59.00:665][340]LogFileManager: Error: Error deleting file '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'.
+[2020.02.15-18.59.00:665][340]LogSavePackage: Error: Error saving '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.15-18.59.00:945][340]EditorErrors: New page: Save Output
+[2020.02.15-18.59.00:945][340]EditorErrors: Warning: Error saving '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.15-18.59.18:740][733]LogUObjectHash: Compacting FUObjectHashTables data took  39.74ms
+[2020.02.15-18.59.21:886][733]LogSlate: Window 'Save Content' being destroyed
+[2020.02.15-18.59.22:211][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.02.15-18.59.22:534][733]LogSavePackage: Moving '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Saved/ThirdPersonExampleMap635521CE40BFDBC91A63208D0B750D41.tmp' to '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.15-18.59.22:535][733]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap', retrying in .5s...
+[2020.02.15-18.59.23:037][733]LogFileManager: Error: Error deleting file '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'.
+[2020.02.15-18.59.23:037][733]LogSavePackage: Error: Error saving '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.15-18.59.23:050][733]EditorErrors: New page: Save Output
+[2020.02.15-18.59.23:050][733]EditorErrors: Warning: Error saving '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.15-18.59.23:067][733]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.073
+[2020.02.15-18.59.36:660][733]LogSlate: Window 'Message' being destroyed
+[2020.02.15-18.59.36:857][733]LogUObjectHash: Compacting FUObjectHashTables data took  10.48ms
+[2020.02.15-18.59.37:146][733]LogSavePackage: Moving '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Saved/ThirdPersonExampleMap2AD076EA4E3714F9477CF7B704A3E2E7.tmp' to '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.15-18.59.37:147][733]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap', retrying in .5s...
+[2020.02.15-18.59.37:648][733]LogFileManager: Error: Error deleting file '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'.
+[2020.02.15-18.59.37:648][733]LogSavePackage: Error: Error saving '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.15-18.59.37:654][733]EditorErrors: New page: Save Output
+[2020.02.15-18.59.37:654][733]EditorErrors: Warning: Error saving '../../../../../../Users/Delam/OneDrive/Documents/GitHub/AIbs_Demo/Behaviour/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.15-18.59.37:657][733]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.992
+[2020.02.15-18.59.40:694][733]LogSlate: Window 'Message' being destroyed
+[2020.02.15-18.59.44:462][733]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2020.02.15-18.59.45:225][733]LogSlate: Window 'Behaviour - Unreal Editor' being destroyed
+[2020.02.15-18.59.45:379][733]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.15-18.59.55:914][734]Cmd: QUIT_EDITOR
+[2020.02.15-18.59.55:914][734]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.02.15-18.59.56:770][734]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.02.15-18.59.56:862][734]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.15-19.00.00:867][734]LogExit: Preparing to exit.
+[2020.02.15-19.00.04:774][734]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-19.00.04:903][734]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.15-19.00.04:903][734]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.15-19.00.04:903][734]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.15-19.00.04:903][734]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.15-19.00.04:903][734]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.15-19.00.04:903][734]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.15-19.00.04:903][734]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.15-19.00.04:903][734]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-19.00.07:649][734]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.15-19.00.10:197][734]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-19.00.10:288][734]LogExit: Editor shut down
+[2020.02.15-19.00.10:440][734]LogExit: Transaction tracking system shut down
