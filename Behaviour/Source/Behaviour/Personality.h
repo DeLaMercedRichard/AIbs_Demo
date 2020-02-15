@@ -4,7 +4,7 @@
 
 
 #include "CoreMinimal.h"
-#include "AllowWindowsPlatformTypes.h"
+#include "Windows/AllowWindowsPlatformTypes.h"
 #include <windows.h>
 #include <string>
 #include <stdio.h>
@@ -12,7 +12,7 @@
 #include <random>
 #include <typeinfo>
 #include <cstdio>
-#include "HideWindowsPlatformTypes.h"
+#include "Windows/HideWindowsPlatformTypes.h"
 /**
  *
  */
